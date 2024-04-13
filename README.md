@@ -1,7 +1,6 @@
 
 ### Hey! I'm João Guilherme!👋🏻
-[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jg_c.leite/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-9b8227286/)
+[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jg_c.leite/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-9b8227286/)
 
 ![JoãoGuiDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jg-365&show_icons=true&theme=tokyonight) 
 
