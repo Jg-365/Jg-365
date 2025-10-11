@@ -7,7 +7,7 @@
 - ### Born and raised in Sobral-Ce☀️
 - ### Finished my studies in Luciano Feijão School📚
 - ### I'm a versatile Programmer focused on helping others🤝
-- ### Currently enrolled in Computer Engineering at the Federal University of Ceará - Fourth Semester👨🏻‍🎓
+- ### Currently enrolled in Computer Engineering at the Federal University of Ceará - Sixth Semester👨🏻‍🎓
 
 ### ⚙️🛠️ Github Stats
 ![JoãoGuiDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jg-365&show_icons=true&theme=tokyonight) 
