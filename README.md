@@ -10,8 +10,7 @@
 - ### Currently enrolled in Computer Engineering at the Federal University of Ceará - Sixth Semester👨🏻‍🎓
 
 ### ⚙️🛠️ Github Stats
-[![JoãoGuiDev's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jg-365&show_icons=true&theme=tokyonight)](https://github-readme-stats-rstaa.vercel.app/api)
-
+![Jg365 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jg-365&theme=dark&show_icons=true)
 ### 👨🏻‍💻 My top languages:
 [[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jg-365&layout=donut)](https://github.com/Jg-365)](https://github-readme-stats-eight-theta.vercel.app/api)
 
