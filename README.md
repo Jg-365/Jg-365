@@ -1,23 +1,64 @@
+# 👋 Hey! I'm João Guilherme
 
-### Hey! I'm João Guilherme!👋🏻
+🎓 **Computer Engineering Student** at the Federal University of Ceará (UFC)  
+💻 **Aspirant Software Developer** | Engineering Lover  
+📍 Sobral – CE, Brazil  
 
-[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jg_c.leite/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-9b8227286/)
+---
 
-- ### Born and raised in Sobral-Ce☀️
-- ### Finished my studies in Luciano Feijão School📚
-- ### I'm a versatile Programmer focused on helping others🤝
-- ### Currently enrolled in Computer Engineering at the Federal University of Ceará - Sixth Semester👨🏻‍🎓
+## 🌐 Connect with me
 
-### ⚙️🛠️ Github Stats
-![Jg365 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jg-365&theme=dark&show_icons=true)
-### 👨🏻‍💻 My top languages:
-[[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jg-365&layout=donut)](https://github.com/Jg-365)](https://github-readme-stats-eight-theta.vercel.app/api)
+<p align="left">
+  <a href="https://www.instagram.com/jg_c.leite/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-9b8227286/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-#### ✨Aspirant to Software Developer and Engineering Lover.<br>
+---
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## 👨🏻‍🎓 About Me
 
+- ☀️ Born and raised in **Sobral – CE**
+- 📚 Finished high school at **Luciano Feijão School**
+- 🤝 Passionate about **helping people through technology**
+- 🎓 Currently in the **6th semester of Computer Engineering at UFC**
+- 🚀 Interested in **software development, problem solving and continuous learning**
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+### Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jg-365&theme=dark&show_icons=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jg-365&layout=donut&theme=dark&hide_border=true" width="40%"/>
+</p>
+
+---
+
+## ✨ Motto
+
+> *"Engineering is not just about building systems,  
+> but about building solutions that help people."*
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
