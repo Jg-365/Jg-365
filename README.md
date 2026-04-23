@@ -24,7 +24,7 @@
 - ☀️ Born and raised in **Sobral – CE**
 - 📚 Finished high school at **Luciano Feijão School**
 - 🤝 Passionate about **helping people through technology**
-- 🎓 Currently in the **6th semester of Computer Engineering at UFC**
+- 🎓 Currently in the **7th semester of Computer Engineering at UFC**
 - 🚀 Interested in **software development, problem solving and continuous learning**
 
 ---
