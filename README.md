@@ -1,7 +1,7 @@
 # 👋 Hey! I'm João Guilherme
 
 🎓 **Computer Engineering Student** at the Federal University of Ceará (UFC)  
-💻 **Aspirant Software Developer** | Engineering Lover  
+💻 **Software Developer** | Engineering Lover  
 📍 Sobral – CE, Brazil  
 
 ---
